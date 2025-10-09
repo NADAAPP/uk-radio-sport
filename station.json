@@ -1,0 +1,18 @@
+[
+  {
+    "name": "talkRADIO",
+    "streamUrl": "http://radio.talkradio.co.uk/stream",
+    "favicon": ""
+  },
+  {
+    "name": "BBC Radio 5 Live (UK-HLS-Akamai)",
+    "streamUrl": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/audio_syndication_high_sbr_v1/ak/bbc_radio_five_live.m3u8",
+    "favicon": ""
+  },
+  {
+    "name": "BBC Radio 4 Extra",
+    "streamUrl": "http://as-hls-ww-live.akamaized.net/pool_26173715/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio=320000.norewind.m3u8",
+    "favicon": ""
+  }
+  
+]
